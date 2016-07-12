@@ -278,7 +278,8 @@ home section
   text-align: center;
 }
 #home h1 {
-  font-size: 40px;
+	font-size: 40px;
+	padding-top: 10px;
 }
 #home h3 {
   font-size: 14px;
